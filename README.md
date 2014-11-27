@@ -54,4 +54,7 @@ Documents here:
 
 <h3>Group Members</h3>
 Pawin Suthipornopas 5510546123
-Thunyathon Jaruchotrattanasakul
+
+Thunyathon Jaruchotrattanasakul 5510546972
+
+Latthapat Tangtrustham 5510547014
