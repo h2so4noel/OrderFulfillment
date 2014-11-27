@@ -55,7 +55,7 @@ SC: The order is deleted from the stock.
 Design here:
 
 Documents here:<br>
-http://goo.gl/ZmGMBL
+* [API Document]http://goo.gl/ZmGMBL
 
 <h3>Group Members</h3>
 ---
