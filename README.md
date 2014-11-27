@@ -51,6 +51,7 @@ SC: The order is deleted from the stock.
 Design here:
 
 Documents here:
+http://goo.gl/ZmGMBL
 
 <h3>Group Members</h3>
 Pawin Suthipornopas 5510546123
