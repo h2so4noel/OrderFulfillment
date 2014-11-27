@@ -47,7 +47,9 @@ UC8: Fulfiller can delete an order.
 SC: The order is deleted from the stock.
 ```
 <h3>API Documents & Design</h3>
+
 Design here:
+
 Documents here:
 
 <h3>Group Members</h3>
